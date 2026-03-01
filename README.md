@@ -19,7 +19,7 @@
 
 ---
 
-> **Featured:** [AI Interview Coach](https://www.em-tools.io/ai-interview-coach) · [50+ Notion Templates for EMs](https://www.em-tools.io/templates) · [The EM's Field Guide](https://www.em-tools.io/field-guide) · [Blog for Engineering Managers](https://blog4ems.com/)
+> **Featured:** [AI Interview Coach](https://www.em-tools.io/interview-prep) · [50+ Notion Templates for EMs](https://www.em-tools.io/em-templates) · [The EM's Field Guide](https://www.em-tools.io/em-field-guide) · [Blog for Engineering Managers](https://blog4ems.com/)
 
 ---
 
@@ -42,11 +42,11 @@
 ## Interactive Tools
 
 - [Engineering Manager ROI Calculator](https://www.em-tools.io/tools/roi-calculator) - Calculate the business impact of engineering initiatives to build better cases for resourcing.
-- [RICE Prioritization Framework](https://www.em-tools.io/tools/rice-framework) - Interactive RICE scoring tool for prioritizing your backlog.
-- [Focus Time Calculator](https://www.em-tools.io/tools/focus-time-calculator) - Estimate how much deep work time your team actually has after meetings.
+- [Prioritization Framework](https://www.em-tools.io/tools/prioritization-framework) - Interactive RICE scoring tool for prioritizing your backlog.
+- [Focus Time Calculator](https://www.em-tools.io/delivery/focus-time-calculator) - Estimate how much deep work time your team actually has after meetings.
 - [Database Selector Tool](https://www.em-tools.io/tools/database-selector) - Compare databases side-by-side based on your requirements.
-- [System Design Scenario Generator](https://www.em-tools.io/tools/system-design-generator) - Generate realistic system design scenarios for interviews and team exercises.
-- [Engineering Manager vs Tech Lead Quiz](https://www.em-tools.io/tools/em-vs-tech-lead) - Not sure which path is right for you? This quiz helps you think through it.
+- [System Design Scenario Generator](https://www.em-tools.io/tools/system-design-scenario-generator) - Generate realistic system design scenarios for interviews and team exercises.
+- [Engineering Manager vs Tech Lead Quiz](https://www.em-tools.io/tools/em-vs-tl) - Not sure which path is right for you? This quiz helps you think through it.
 - [Jellyfish](https://jellyfish.co/) - Engineering management analytics platform.
 - [Pluralsight Flow](https://www.pluralsight.com/product/flow) - Engineering analytics for team leads.
 - [Swarmia](https://www.swarmia.com/) - Engineering effectiveness platform with DORA metrics.
@@ -57,7 +57,7 @@
 
 ### Notion Templates
 
-- [50+ Engineering Manager Notion Templates](https://www.em-tools.io/templates) - Templates for 1:1s, performance reviews, team charters, sprint retros, OKRs, hiring scorecards, onboarding plans, and more.
+- [50+ Engineering Manager Notion Templates](https://www.em-tools.io/em-templates) - Templates for 1:1s, performance reviews, team charters, sprint retros, OKRs, hiring scorecards, onboarding plans, and more.
 - [Notion Engineering Wiki Template](https://www.notion.so/templates/engineering-wiki) - Notion's official engineering wiki template.
 - [Engineering Team Hub](https://www.notion.so/templates/category/engineering) - Notion's engineering template gallery.
 
@@ -144,7 +144,7 @@
 
 ## Courses & Learning
 
-- [The EM's Field Guide](https://www.em-tools.io/field-guide) - Practical ebook covering the core skills every engineering manager needs, from running 1:1s to navigating reorgs.
+- [The EM's Field Guide](https://www.em-tools.io/em-field-guide) - Practical ebook covering the core skills every engineering manager needs, from running 1:1s to navigating reorgs.
 - [Reforge](https://www.reforge.com/) - Growth, product, and leadership programs used by top tech companies.
 - [Maven](https://maven.com/) - Cohort-based courses including several on engineering leadership.
 - [O'Reilly Learning](https://www.oreilly.com/) - Extensive library of tech and management content.
@@ -157,8 +157,8 @@
 
 ### Engineering Manager Interviews
 
-- [AI Interview Coach for Engineering Managers](https://www.em-tools.io/ai-interview-coach) - AI-powered voice practice for EM behavioral interviews. Gives real-time feedback on STAR responses.
-- [Get Hired as an Engineering Manager](https://www.em-tools.io/get-hired) - Complete interview prep bundle with question banks, answer frameworks, and strategies.
+- [AI Interview Coach for Engineering Managers](https://www.em-tools.io/interview-prep) - AI-powered voice practice for EM behavioral interviews. Gives real-time feedback on STAR responses.
+- [Get Hired as an Engineering Manager](https://www.em-tools.io/get-hired-engineering-manager) - Complete interview prep bundle with question banks, answer frameworks, and strategies.
 - [Exponent](https://www.tryexponent.com/) - Mock interviews and courses for PM and engineering roles.
 - [IGotAnOffer](https://igotanoffer.com/) - Interview coaching and practice.
 - [Hello Interview](https://www.hellointerview.com/) - System design and coding interview prep.
