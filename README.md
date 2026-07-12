@@ -186,6 +186,7 @@
 - [QCon](https://qconferences.com/) - Software development conferences with management tracks.
 - [CTO Craft Con](https://conference.ctocraft.com/) - Conference focused on engineering leadership.
 - [DevOpsDays](https://devopsdays.org/) - Community-organized conferences worldwide with strong leadership content.
+- [Engineering Leaders Conference](https://www.elc-conference.io/) - Annual conference for engineering leaders in Prague. 500+ attendees, speakers from companies like Netflix and Stripe.
 - [StaffPlus](https://leaddev.com/staffplus) - By LeadDev, focused on staff+ engineers and technical leaders.
 
 <p align="right">(<a href="#contents">back to top</a>)</p>
