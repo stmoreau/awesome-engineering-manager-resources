@@ -175,6 +175,7 @@
 - [LeadDev Community](https://leaddev.com/) - Articles, talks, and events for engineering leaders.
 - [Engineering Managers Slack](https://engmanagers.github.io/) - Slack community focused on EM challenges.
 - [CTO Craft](https://ctocraft.com/) - Community and events for CTOs and engineering leaders.
+- [Engineering Leaders Community (ELC)](https://www.engineeringleaders.io/) - 2,000+ engineering leaders across Central Europe. Monthly in-person meetups in Prague and an annual conference.
 - [Hacker News](https://news.ycombinator.com/) - Not EM-specific, but essential reading for staying connected to what engineers care about.
 
 <p align="right">(<a href="#contents">back to top</a>)</p>
