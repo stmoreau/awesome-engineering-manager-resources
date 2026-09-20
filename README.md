@@ -88,6 +88,7 @@
 - [Turn the Ship Around!](https://davidmarquet.com/turn-the-ship-around-book/) by L. David Marquet - Intent-based leadership.
 - [The Five Dysfunctions of a Team](https://www.tablegroup.com/product/dysfunctions/) by Patrick Lencioni - Understanding team dynamics.
 - [No Rules Rules](https://www.norulesrules.com/) by Reed Hastings & Erin Meyer - Netflix's culture of freedom and responsibility.
+- [The Inside-Out Entrepreneur](https://www.goodreads.com/book/show/221519250-the-inside-out-entrepreneur) by Mohamed F. Ahmed - Conditioning the leader rather than the org: six mindsets, mental robustness as a trainable skill, and building a support system before the crisis hits.
 
 ### On Technical Leadership
 
