@@ -85,6 +85,8 @@
 
 ### On Leadership & Culture
 
+- [Crafting Conflict Volume 1](https://leanpub.com/craftingconflictv1) by Paul LaPosta - Conflict diagnosis, intervention scripts and post-conflict repair for engineering managers.
+
 - [Turn the Ship Around!](https://davidmarquet.com/turn-the-ship-around-book/) by L. David Marquet - Intent-based leadership.
 - [The Five Dysfunctions of a Team](https://www.tablegroup.com/product/dysfunctions/) by Patrick Lencioni - Understanding team dynamics.
 - [No Rules Rules](https://www.norulesrules.com/) by Reed Hastings & Erin Meyer - Netflix's culture of freedom and responsibility.
